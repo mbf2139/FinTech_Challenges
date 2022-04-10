@@ -18,7 +18,7 @@ This app leverages python 3.7 with the following packages:
 ## Installation 
 
 1. Clone the repo 
-![Clone](images/clone.jpg)
+![Clone](Images/clone.jpg)
 
 2. Before running the program make sure to install the following dependencies: 
  
@@ -30,19 +30,19 @@ This app leverages python 3.7 with the following packages:
 
 1. To use the Crypto Arbitrage application navigate to the ***Module_3_Challenge*** folder within the repo and run the ***crypto_arbitrage.ipynb*** file 
 
-![Usage](images/usage.jpg)
+![Usage](Images/usage.jpg)
 
 2. In the ***Resources*** folder you will find the datasets used for this analysis which contain price info on BTC from two different exchanges during early 2018 
 
-![csv](images/csv.jpg)
+![csv](Images/csv.jpg)
 
 3. To use your own data save it in the ***Resources*** folder and update the read_csv functions 
 
-![import](images/imprt.jpg)
+![import](Images/imprt.jpg)
 
 4. The dates and date ranges can be customized to your needs and if you follow the format the final output will be the cumulative arbitrage profits in your given date range
 
-![cumsum](images/cumsum.jpg)
+![cumsum](Images/cumsum.jpg)
 
 ---
 
