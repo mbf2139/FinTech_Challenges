@@ -9,6 +9,6 @@
 # Technologies 
 
 This app leverages python 3.7 with the following packages:
-* [pandas](https://github.com/pandas-dev/pandas) - For data analysis and manipulation 
+* [pandas](https://github.com/pandas-dev/pandas) - For data analysis and manipulation.
 * [pathlib](https://github.com/jazzband/pathlib2) - For file manipulation.
-* [matplotlib inline](https://github.com/ipython/matplotlib-inline
+* [matplotlib inline](https://github.com/ipython/matplotlib-inline) - For data visualizations.
